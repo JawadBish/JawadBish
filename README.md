@@ -1,32 +1,15 @@
 <p><samp>Hi there! I'm <b>Jawad Bisharat</b>.</samp></p>
 <p><samp>I'm a <b>Software Developer</b> at Amdocs.</samp></p>
-<p><samp>I'm passionate about <b>Competitive Programming</b>, <b>Web Development</b> and <b>Open Source</b>.</samp></p>
+<p><samp>I'm currently learning <b>Internet Of Things</b>.</samp></p>
 <hr>
-<p>
-  <a href="https://br.linkedin.com/in/felipevpeters">
-    <img align="left" alt="Felipe's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />
-  </a>
-  <a href="mailto:fveronezipeters@gmail.com">
-    <img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
-  </a>
-  <a href="https://instagram.com/felipevpeters">
-    <img align="left" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
-  </a>
-  <a href="https://leetcode.com/fveronezipeters/">
-    <img align="left" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/leetcode.svg" />
-  </a>
-  <a href="https://www.hackerrank.com/fveronezipeters">
-    <img align="left" alt="HackerRank Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerrank.svg" />
-  </a>
-  <a href="https://codeforces.com/profile/fveronezipeters">
-    <img align="left" alt="Codeforces Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codeforces.svg" />
-  </a>
-  <a href="https://www.codechef.com/users/felipevpeters">
-    <img align="left" alt="CodeChef Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/codechef.svg" />
-  </a>
-  <a href="https://www.hackerearth.com/pt-br/@fveronezipeters">
-    <img align="left" alt="HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/hackerearth.svg" />
-  </a>
-</p>
 
-⭐️ From [fveronezipeters](https://github.com/[fveronezipeters])
+- 📫 Reach me:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.facebook.com/Jawad.Bish?ref=bookmarks"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
+<a href = "https://www.https://www.instagram.com/jawadbish/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/jawad-bisharat-102831117/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
+<a href = "https://ganish.com.np/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
+<hr>
+
+<div align="center">
+ <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
