@@ -1,6 +1,6 @@
 <p><samp>Hi there 👋 I'm <b>Jawad Bisharat</b>.</samp></p>
 <p><samp>I'm a <b>Software Developer</b> at Amdocs.</samp></p>
-<p><samp>I'm currently learning <b>Internet Of Things</b>.</samp></p>
+<p><samp>I'm currently learning <b>IOT</b>.</samp></p>
 <hr>
 
 - 📫 Reach me:
