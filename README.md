@@ -10,6 +10,16 @@
 <a href = "https://wwww.jawadbisharat.com/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
 <hr>
 
+- ⚡ Projects: <br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.localhost:5000/Jawad.Bish"><b>Facts Application</b></a><br>
+ <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MERN Project - view,like and share interesting facts.</p> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.localhost:5000/Jawad.Bish"><b>Bisharat Family Tree</b></a><br>
+ <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bisharat Family Tree Project</p> <br>
+
+
+
+ <hr>
 <div align="center">
  <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 </div>
