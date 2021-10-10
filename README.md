@@ -16,7 +16,8 @@
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MERN Project - view,like and share interesting facts.</p> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://bisharatfamily.com" target="_blank"><b>Bisharat Family Tree</b></a><br>
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Family Tree and Communication Project </p> <br>
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://waj.netlify.app/" target="_blank"><b>WAJ - Professional Photographer</b></a><br>
+ <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WaelAj Potrfolio </p> <br>
 
 
  <hr>
