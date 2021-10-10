@@ -4,7 +4,7 @@
 <hr>
 
 - 📫 Reach me:
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/Jawad.Bish?ref=bookmarks" target="_blank" rel="noopener noreferrer"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.facebook.com/Jawad.Bish?ref=bookmarks"> <img src = "https://cdn1.iconfinder.com/data/icons/logotypes/32/square-facebook-256.png" height= 15px width = 15px> Facebook </a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/jawadbish/" target="_blank" ><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/jawad-bisharat-102831117/" target="_blank" ><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <a href = "https://wwww.jawadbisharat.com/" target="_blank"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
