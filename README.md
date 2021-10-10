@@ -12,9 +12,9 @@
 
 - ⚡ Projects: <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.localhost:5000/Jawad.Bish"><b>Facts Application</b></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://facts-app.netlify.app/"><b>Facts Application</b></a><br>
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MERN Project - view,like and share interesting facts.</p> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://www.localhost:5000/Jawad.Bish"><b>Bisharat Family Tree</b></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://facts-app.netlify.app"><b>Bisharat Family Tree</b></a><br>
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bisharat Family Tree Project</p> <br>
 
 
