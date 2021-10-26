@@ -18,7 +18,7 @@
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Family Tree and Communication Project </p> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://waj.netlify.app/" target="_blank"><b>WAJ - Professional Photographer</b></a><br>
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;WaelAj Potrfolio </p> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://jcocktails-app.netlify.app/cocktails" target="_blank"><b>Cocktails Application</b></a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href = "https://jcocktails-app.netlify.app/" target="_blank"><b>Cocktails Application</b></a><br>
  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cocktail App - learn how to make cocktails and share your way. [MERN] -</p> <br>
 
  <hr>
